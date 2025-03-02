@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Letícia Sousa Moreira
+Matricula: 893031
 
 ## Tela de inspeção com navegador
+! [Print da Inspeção] (./image-1.png)
 
 
 ## Tela de projeto no Replit
-
+! [Print do Projeto] (./image.png) 
